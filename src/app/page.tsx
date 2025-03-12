@@ -76,8 +76,8 @@ export default function Home() {
       </section>
       <footer data-aos="fade-up" id="footer" className={style.item5}>
         <h1>About me</h1>
-        <p>Hi, I'm Ugorji Bright, a full stack web developer based in Nigeria.</p>
-        <p>I am a tech savvy individual with a Bachelor's degree in Chemistry (Industrial chemistry), seeking employment as a Web developer.
+        <p>Hi, I&apos;m Ugorji Bright, a full stack web developer based in Nigeria.</p>
+        <p>I am a tech savvy individual with a Bachelor&apos;s degree in Chemistry (Industrial chemistry), seeking employment as a Web developer.
           I am passionate about consistently advancing my knowledge and skills. I have attented multiple seminars and boot camps on coding and Web Developmemt.</p>
         <br />
         <a className={style.button} href="mailto:ugorjibright123@gmail.com">Email me</a>
